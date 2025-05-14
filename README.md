@@ -58,3 +58,8 @@ You can find all open issues here:
 ```bash
 javac src/Main.java
 java -cp src Main
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
